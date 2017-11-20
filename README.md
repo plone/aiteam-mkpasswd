@@ -23,6 +23,18 @@ Pull the image:
 docker pull plone/aiteam-mkpasswd
 ```
 
+## Usage
+
+Run the container from command line:
+
+```bash
+docker run --rm plone/aiteam-mkpasswd:0.0.1
+```
+
+![Example picture of running version 0.0.1](docs/_static/aiteam-mkpasswd-screen.png)
+
+*Note*: In the example above we are using version *0.0.1*.
+
 ## Contribute
 
 - [Issue Tracker](github.com/plone/aiteam-mkpasswd/issues)
