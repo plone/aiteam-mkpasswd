@@ -5,6 +5,16 @@ Containerised Application For Creating Passwords and  SHA512 Hashes.
 
 - [Docker](https://docker.com "Homepage of docker")
 
+## Features
+
+- Uses [Tini](https://github.com/krallin/tini) as `init`.
+- Uses [su-exec](https://github.com/ncopa/su-exec) for setting permissions.
+
+## Documentation
+
+Full documentation for end users can be found in the ["docs"](docs) folder.
+
+
 ## Getting Started
 
 Pull the image:
