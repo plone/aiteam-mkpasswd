@@ -37,8 +37,8 @@ docker run --rm plone/aiteam-mkpasswd:0.0.1
 
 ## Contribute
 
-- [Issue Tracker](github.com/plone/aiteam-mkpasswd/issues)
-- [Source Code](github.com/plone/aiteam-mkpasswd)
+- [Issue Tracker](httos://github.com/plone/aiteam-mkpasswd/issues)
+- [Source Code](https://github.com/plone/aiteam-mkpasswd)
 
 ## Support
 
