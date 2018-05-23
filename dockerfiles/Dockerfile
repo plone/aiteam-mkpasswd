@@ -14,4 +14,3 @@ COPY dockerfiles/creator.sh /usr/local/bin/creator.sh
 COPY dockerfiles/entrypoint.sh /usr/local/bin/entrypoint.sh
 
 ENTRYPOINT ["/sbin/tini", "--", "/usr/local/bin/entrypoint.sh"]
-#ENTRYPOINT ["bash"]
