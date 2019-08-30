@@ -10,7 +10,7 @@ COL_YELLOW=$ESC_SEQ"33;01m"
 COL_BLUE=$ESC_SEQ"34;01m"
 
 # Vars
-PASSWORD=$(pwgen -s -N 1 -cny 20)
+PASSWORD=$(pwgen -s -N 1 -cny 35)
 HASH=$(mkpasswd -m sha-512 -s "$PASSWORD")
 
 echo -en "$COL_GREEN Created new user password and SHA512 Hash $COL_RESET \n"

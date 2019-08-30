@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.6
+
+- Change password length to 35 chars. [svx]
+
 ## 0.0.5
 
 - Update Alpine to 3.10 [svx]
